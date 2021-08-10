@@ -1,5 +1,9 @@
 # JANAINA DE ARAUJO - WEB FULLSTACK DEV
 
+#### 🎓 Generation Brasil
+#### 📍 São Paulo
+#### ✅ #opentowork
+
 <div>
   <a href="https://github.com/JanaAraujo">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=JanaAraujo&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
