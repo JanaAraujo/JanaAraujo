@@ -1,7 +1,6 @@
 # JANAINA DE ARAUJO - WEB FULLSTACK DEV
 
-#### 🎓 Generation Brasil
-#### 📍 São Paulo
+#### 📍 São Paulo, Brasil
 #### ✅ #opentowork
 
 <div>
