@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Janaina Araujo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <div align="center"> 
-  
+  <p>Estou iniciando minhja carreira com Desenvolvimento Web - Full Stack</p>
   <p>Cursando Designer Digital - UAM</p>
 📍 São Paulo, Brasil 
 <br>
