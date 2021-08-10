@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Janaina de Araujo </h1>
+<h1 align="center">JANAINA DE ARAUJO - DESENVOLVEDORA FULL STACK </h1>
 
 <div align="center"> 
   
