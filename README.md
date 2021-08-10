@@ -1,13 +1,10 @@
-# JANAINA DE ARAUJO - WEB FULLSTACK DEV
-
-#### 📍 São Paulo, Brasil
-#### ✅ #opentowork
-
 <h1 align="center">Olá, me chamo Janaina de Araujo </h1>
 
 <div align="center"> 
   
   <p>Cursando Designer Digital - UAM</p>
+  #### 📍 São Paulo, Brasil
+  #### ✅ #opentowork
  
 <br>
 
