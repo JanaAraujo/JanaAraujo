@@ -3,9 +3,7 @@
 <div align="center"> 
   
   <p>Cursando Designer Digital - UAM</p>
-  #### 📍 São Paulo, Brasil
-  #### ✅ #opentowork
- 
+📍 São Paulo, Brasil 
 <br>
 
 </div>
