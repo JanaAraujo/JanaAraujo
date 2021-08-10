@@ -1,4 +1,4 @@
-<h2 align="center">JANAINA DE ARAUJO - DESENVOLVEDORA FULL STACK </h2>
+<h2 align="center">JANAINA DE ARAUJO</h2>
 
 <div align="center"> 
   
