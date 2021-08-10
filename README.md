@@ -1,4 +1,4 @@
-### OLÁ!!! Eu sou a Janaina de Araujo👋
+# JANAINA DE ARAUJO - WEB FULLSTACK DEV
 
 <div>
   <a href="https://github.com/JanaAraujo">
